@@ -545,7 +545,7 @@ ul{list-style:none;}
   .stat{border-bottom:1px solid rgba(255,255,255,.08);}
   .section{padding:70px 0;}
   .mobile-bar{display:grid;}
-  .wa-float{bottom:74px;}
+  .wa-float{display:none;}
   body{padding-bottom:54px;}
   .footer__bar-inner{justify-content:center;text-align:center;}
 }
